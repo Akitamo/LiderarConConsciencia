@@ -1,1 +1,4 @@
+---
+tipo:
+---
 # LiderarConConsciencia
