@@ -5,7 +5,7 @@ tags:
 ---
 ```dataview
 LIST
-FROM "Borrador módulos"
+FROM "B1_Consciente de lo que soy"
 WHERE startswith(file.name, "1Slide")
 SORT file.name ASC
 ```
