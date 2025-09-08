@@ -12,6 +12,6 @@ tags: cerebro
 - Durante millones de años, solo sobrevivieron aquellos cuyos cerebros detectaron amenazas, anticiparon peligros y respondieron con la velocidad adecuada
 - 
 - Cada estructura cerebral actual es el resultado de esta presión selectiva: amígdala para detección de amenazas, hipocampo para consolidación de memorias de supervivencia, corteza prefrontal para planificación adaptativa
-	- ![[Pasted image 20250908182539.png]]
+	-![](assets/Pasted%20image%2020250908201309.png)
 - 
 
