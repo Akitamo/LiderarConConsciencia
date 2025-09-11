@@ -1,5 +1,0 @@
----
-modulo: 
-tipo: 
-tags: 
----
