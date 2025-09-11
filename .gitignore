@@ -4,3 +4,5 @@
 .obsidian/
 # Ignorar la carpeta de referencias
 referencias/
+# Ignorar la carpeta de templates
+_templates/
