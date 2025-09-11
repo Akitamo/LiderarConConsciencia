@@ -2,7 +2,7 @@
 # Obsidian
 *.Obsidian
 .obsidian/
-# Ignorar la carpeta de referencias
-referencias/
+# Ignorar la carpeta de documentos
+documentos/
 # Ignorar la carpeta de templates
 _templates/
