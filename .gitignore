@@ -2,4 +2,5 @@
 # Obsidian
 *.Obsidian
 .obsidian/
-
+# Ignorar la carpeta de referencias
+referencias/

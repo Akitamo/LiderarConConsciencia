@@ -18,4 +18,6 @@ Las neuronas se comunican entre ellas mediante conexiones funcionales llamadas s
 
 ![](assets/Pasted%20image%2020250909134113.png)![](assets/Pasted%20image%2020250909134214.png)
 ![](assets/Gif%20cerebro%20crea%20realidad.gif)
-Experimento: [1Slide_1.01_Exper_EL Cerebro construye la realidad](1Slide_1.01_Exper_EL%20Cerebro%20construye%20la%20realidad.md)
+
+#exercise Experimento: 
+[1Slide_1.01_Exper_EL Cerebro construye la realidad](1Slide_1.01_Exper_EL%20Cerebro%20construye%20la%20realidad.md)
