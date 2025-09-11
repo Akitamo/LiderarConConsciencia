@@ -8,7 +8,7 @@ tags: cerebro
 ---
 
 # El cerebro: Una máquina predictiva forjada por la evolución
-[00_B1_indice](00_B1_indice.md)
+[00_indice](00_indice.md)
 
 - Durante millones de años, solo sobrevivieron aquellos cuyos cerebros detectaron amenazas, anticiparon peligros y respondieron con la velocidad adecuada
 - 
