@@ -17,5 +17,5 @@ Cada neurona recibe información de otras neuronas o células a través de las d
 Las neuronas se comunican entre ellas mediante conexiones funcionales llamadas sinapsis. En cada sinapsis hay implicadas dos neuronas, la que entrega información llamada neurona presináptica y la que recibe, llamada neurona postsinaptica. La neurona presináptica entrega su información liberando una minúscula cantidad de una sustancia quimica, el neurotransmisor, que difunde a través del microscópico espacio que la separa de la neurona postsináptica y, uniéndose a ella, modifica su actividad. Para formar nuevas sinapsis, las neuronas emiten minusculas excreciones o brotes llamadas espinas dendríticas.  Mediante cambios en su morfología y funcionamiento, las neuronas y sus sinapsis pueden almacenar información. Aunque no está clara la capacidad de almacenamiento de información del cerebro humano, las estimaciones la atribuyen entre uno y mil terabytes (cada terabyte son 10 ^12 bytes o 1.000 gigabytes. 1 Byte son 8 bits).
 
 ![](assets/Pasted%20image%2020250909134113.png)![](assets/Pasted%20image%2020250909134214.png)
-![](assets/Video%20ver%20con%20cerebro.mp4)
+![](assets/Gif%20ver%20con%20cerebro.gif)
 Experimento: 
